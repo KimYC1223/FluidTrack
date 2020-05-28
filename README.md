@@ -4,7 +4,8 @@ Huamn auto drinking check wearable device
 
 Human body connection (HBC) based drinking tracker device
 
-2020. Yonsei Univ. DC Lab
+2020> Yonsei Univ. DC Lab
+
 & ASU / Microsoft / Serverance
 
 ## Schedule
